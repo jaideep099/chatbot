@@ -57,10 +57,3 @@ zeotapchatbot-main/
 └── package.json        # Project manifest
 ```
 
-## 🖼️ Screenshots
-
-(Add screenshots or GIFs of your chatbot UI here)
-
-## 📄 License
-
-MIT License. See `LICENSE` file for details.
